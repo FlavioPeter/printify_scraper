@@ -30,11 +30,11 @@ def get_urls_array(path="urls.js"):
 
 url_list = get_urls_array()
 
-url_list = [
-    "https://printify.com/app/products/mens-clothing/long-sleeves",
-    "https://printify.com/app/products/mens-clothing/tank-tops",
-    "https://printify.com/app/products/mens-clothing/sportswear",
-]
+# url_list = [
+#     "https://printify.com/app/products/mens-clothing/long-sleeves",
+#     "https://printify.com/app/products/mens-clothing/tank-tops",
+#     "https://printify.com/app/products/mens-clothing/sportswear",
+# ]
 
 FOLDER_PATH = os.path.join(".", "data_scraped")
 
